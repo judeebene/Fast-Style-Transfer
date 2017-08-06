@@ -3,9 +3,9 @@
 Add styles from famous paintings to any photo in a fraction of a second! [You can even style videos!](#video-stylization)
 
 <p align = 'center'>
-<img src = 'examples/style/udnie.jpg' height = '246px'>
-<img src = 'examples/content/stata.jpg' height = '246px'>
-<a href = 'examples/results/stata_udnie.jpg'><img src = 'examples/results/stata_udnie_header.jpg' width = '627px'></a>
+<img src = 'output1.jpg' height = '246px'>
+<img src = 'loop1.jpg' height = '246px'>
+<a href = 'loop2.jpg'><img src = 'loop2.jpg' width = '627px'></a>
 </p>
 <p align = 'center'>
 It takes 100ms on a 2015 Titan X to style the MIT Stata Center (1024×680) like Udnie, by Francis Picabia.
